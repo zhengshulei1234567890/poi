@@ -6,4 +6,5 @@ import java.util.List;
 
 public interface PoiDao {
     public void insert(List<Student> list);
+     public void update(List<Student> list);
 }
